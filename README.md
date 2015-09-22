@@ -4,7 +4,7 @@ KRIconは，UIBezierPathによって描かれたアイコンセットになっ�
 ## 特徴
 ### UIBezierPath
 画像ではなく，UIBezierPathによる描画のため，軽量化を実現しています．
-また，拡大縮小，塗り色，線色の変更が容易になりました．
+また，拡大縮小，塗り色，線色の変更が容易になりました．
 
 ### StoryBoardでの設定
 KRIconViewは，StoryBoard上でも設定が可能です．
